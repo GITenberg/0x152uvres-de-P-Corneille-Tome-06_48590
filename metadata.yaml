@@ -1,0 +1,39 @@
+_repo: 0x152uvres-de-P-Corneille-Tome-06_48590
+contributor:
+  creator:
+    editor:
+      agent_name: Marty-Laveaux, Charles Joseph
+      aliases:
+      - Marty-Laveaux, Ch. (Charles)
+      - Marty-Laveaux, Ch. (Charles Joseph)
+      birthdate: 1823
+      deathdate: 1899
+      gutenberg_agent_id: '37028'
+      url: http://www.gutenberg.org/2009/agents/37028
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2015-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48590'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama (Tragedy) -- 17th century'
+- !lcc 'PQ'
+tableOfContents: Pertharite, roi des Lombards -- Œdipe -- La toison d'or -- Sertorius
+  -- Sophonisbe -- Othon.
+title: Œuvres de P. Corneille, Tome 06
+url: http://www.gutenberg.org/ebooks/48590
