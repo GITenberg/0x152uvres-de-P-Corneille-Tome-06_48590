@@ -1,4 +1,5 @@
 _repo: 0x152uvres-de-P-Corneille-Tome-06_48590
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -10,6 +11,9 @@ contributor:
       deathdate: 1899
       gutenberg_agent_id: '37028'
       url: http://www.gutenberg.org/2009/agents/37028
+covers:
+- cover_type: archival
+  image_path: 48590-h/images/cover.jpg
 creator:
   author:
     agent_name: Corneille, Pierre
@@ -21,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Pierre_Corneille
     - http://fr.wikipedia.org/wiki/Pierre_Corneille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48590#0x152uvres-de-P-Corneille-Tome-06
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2015-03-26'
 gutenberg_type: Text
